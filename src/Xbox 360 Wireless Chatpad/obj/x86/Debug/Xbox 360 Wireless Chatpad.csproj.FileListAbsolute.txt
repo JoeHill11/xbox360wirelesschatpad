@@ -30,3 +30,12 @@ E:\Xbox 360 Wireless Chatpad\Xbox 360 Wireless Chatpad\obj\x86\Debug\Xbox360Wire
 E:\Xbox 360 Wireless Chatpad\Xbox 360 Wireless Chatpad\obj\x86\Debug\Xbox360WirelessChatpad.Properties.Resources.resources
 E:\Xbox 360 Wireless Chatpad\Xbox 360 Wireless Chatpad\obj\x86\Debug\Xbox 360 Wireless Chatpad.csprojResolveAssemblyReference.cache
 E:\Xbox 360 Wireless Chatpad\Xbox 360 Wireless Chatpad\obj\x86\Debug\Xbox 360 Wireless Chatpad.csproj.GenerateResource.Cache
+D:\Xbox 360 Wireless Chatpad\src\Xbox 360 Wireless Chatpad\obj\x86\Debug\Xbox 360 Wireless Chatpad.exe
+D:\Xbox 360 Wireless Chatpad\src\Xbox 360 Wireless Chatpad\obj\x86\Debug\Xbox 360 Wireless Chatpad.pdb
+D:\Xbox 360 Wireless Chatpad\src\Xbox 360 Wireless Chatpad\bin\Debug\Xbox 360 Wireless Chatpad.exe
+D:\Xbox 360 Wireless Chatpad\src\Xbox 360 Wireless Chatpad\bin\Debug\Xbox 360 Wireless Chatpad.pdb
+D:\Xbox 360 Wireless Chatpad\src\Xbox 360 Wireless Chatpad\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Xbox 360 Wireless Chatpad\src\Xbox 360 Wireless Chatpad\obj\x86\Debug\Xbox360WirelessChatpad.Window_Main.resources
+D:\Xbox 360 Wireless Chatpad\src\Xbox 360 Wireless Chatpad\obj\x86\Debug\Xbox360WirelessChatpad.Properties.Resources.resources
+D:\Xbox 360 Wireless Chatpad\src\Xbox 360 Wireless Chatpad\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Xbox 360 Wireless Chatpad\src\Xbox 360 Wireless Chatpad\obj\x86\Debug\GenerateResource.write.1.tlog
