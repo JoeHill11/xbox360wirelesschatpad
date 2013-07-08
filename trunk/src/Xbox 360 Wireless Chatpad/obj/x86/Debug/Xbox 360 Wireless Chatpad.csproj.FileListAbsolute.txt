@@ -66,3 +66,4 @@ C:\Documents and Settings\Administrator\Desktop\xbox360wirelesschatpad\src\Xbox 
 C:\Documents and Settings\Administrator\Desktop\xbox360wirelesschatpad\src\Xbox 360 Wireless Chatpad\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Documents and Settings\Administrator\Desktop\xbox360wirelesschatpad\src\Xbox 360 Wireless Chatpad\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Documents and Settings\Administrator\Desktop\xbox360wirelesschatpad\src\Xbox 360 Wireless Chatpad\bin\Debug\Xbox 360 Wireless Chatpad.exe.config
+C:\Users\Mygas\Desktop\Xbox 360 Wireless Chatpad\src\Xbox 360 Wireless Chatpad\bin\Debug\Xbox 360 Wireless Chatpad.exe.config
